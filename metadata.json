@@ -1,0 +1,8 @@
+{
+  "name": "AlCortex - Pro Diagnostic Suite",
+  "description": "Professional AI-powered diagnostic platform for healthcare providers featuring clinical reasoning, digital twin analysis, and automated EMR.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
